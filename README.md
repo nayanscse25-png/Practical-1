@@ -1,9 +1,9 @@
-# Practical-1
+# Practical-2
 <html>
 <head>
 <title> PRACTICAL 1 </title>
 </head>
-<body>
+<body bgcolor = "blue">
 <header>
 <h1>Welcome to my site</h1>
 </header>
