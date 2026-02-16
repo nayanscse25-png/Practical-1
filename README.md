@@ -1,7 +1,7 @@
-# Practical-1
+# Practical-2
 <html>
 <head>
-<title> PRACTICAL 1 </title>
+<title> PRACTICAL 2 </title>
 </head>
 <body bgcolor = "blue">
 <header>
